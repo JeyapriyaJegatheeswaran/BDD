@@ -1,0 +1,18 @@
+2019-08-03 15:33:07.226 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >> Entered username : tomsmith
+2019-08-03 15:33:07.308 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >> Entered password : SuperSecretPassword!
+2019-08-03 15:33:08.212 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >>  Clicked login button
+2019-08-03 15:33:24.117 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >> Entered username : 
+2019-08-03 15:33:24.162 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >> Entered password : 
+2019-08-03 15:33:25.109 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >>  Clicked login button
+2019-08-03 15:33:50.605 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >> Entered username : John
+2019-08-03 15:33:50.657 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >> Entered password : John123
+2019-08-03 15:33:52.034 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >>  Clicked login button
+2019-08-03 15:34:04.582 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >> Entered username : Siva
+2019-08-03 15:34:04.641 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >> Entered password : Siva456
+2019-08-03 15:34:05.303 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >>  Clicked login button
+2019-08-03 15:34:24.599 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >> Entered username : tomsmith
+2019-08-03 15:34:24.666 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >> Entered password : errorPassword
+2019-08-03 15:34:25.323 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >>  Clicked login button
+2019-08-03 15:34:40.342 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >> Entered username : errorUserName
+2019-08-03 15:34:40.415 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >> Entered password : SuperSecretPassword
+2019-08-03 15:34:41.109 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >>  Clicked login button
